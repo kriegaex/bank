@@ -44,7 +44,7 @@ dependencies {
     //SPOCK
     testImplementation("org.spockframework:spock-spring:1.3-groovy-2.5")
     testImplementation("dev.sarek:sarek-spock-extension:1.0-SNAPSHOT")
-    testImplementation("dev.sarek:sarek:1.0-SNAPSHOT")
+    testImplementation("dev.sarek:sarek-unfinal:1.0-SNAPSHOT")
 }
 
 dependencyManagement {
